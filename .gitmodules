@@ -1,0 +1,3 @@
+[submodule "language-sepcific/ts/safe-env"]
+	path = language-sepcific/ts/safe-env
+	url = https://github.com/RadoslavTsvetanov/safe-ts-envs.git
