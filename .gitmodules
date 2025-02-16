@@ -4,3 +4,6 @@
 [submodule "language-sepcific/ts/custom-express"]
 	path = language-sepcific/ts/custom-express
 	url = https://github.com/RadoslavTsvetanov/custom-express.git
+[submodule "language-sepcific/ts/errors-as-values"]
+	path = language-sepcific/ts/errors-as-values
+	url = https://github.com/RadoslavTsvetanov/errors-as-values
