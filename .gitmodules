@@ -7,3 +7,6 @@
 [submodule "language-sepcific/ts/errors-as-values"]
 	path = language-sepcific/ts/errors-as-values
 	url = https://github.com/RadoslavTsvetanov/errors-as-values
+[submodule "non-lang-specific-services/vault"]
+	path = non-lang-specific-services/vault
+	url = https://github.com/RadoslavTsvetanov/Vault-.git
