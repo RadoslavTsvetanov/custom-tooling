@@ -10,3 +10,6 @@
 [submodule "non-lang-specific-services/vault"]
 	path = non-lang-specific-services/vault
 	url = https://github.com/RadoslavTsvetanov/Vault-.git
+[submodule "non-lang-specific-services/test-structure-generator"]
+	path = non-lang-specific-services/test-structure-generator
+	url = https://github.com/RadoslavTsvetanov/tests-directory-generator.git
